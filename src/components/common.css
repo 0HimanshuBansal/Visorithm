@@ -1,0 +1,36 @@
+.navbarIcon{
+    margin-right: 0.6rem;
+    width:2.5rem;
+    height:auto;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+
+.navbarBG{
+    background-color: #3D5AFE;
+}
+
+.nav-link{
+    color: white!important;
+}
+
+.homeDiv{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 86.5vh;
+    border-radius: 1.5rem;
+    padding: 1.5rem;
+}
+
+.bar{
+    background: #0D6EFD;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    width: 100%;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.bar>div {
+    flex: 1;
+}

@@ -1,0 +1,2 @@
+favicon - <div> Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons"> Flat Icons </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
+brain - <div>Icons made by <a href="https://www.flaticon.com/authors/maxim-basinski-premium" title="Maxim Basinski Premium">Maxim Basinski Premium</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
